@@ -1,6 +1,6 @@
 % Octave Script
 % Title       : Sumas de Riemann
-% Description : Calcular el area bajo la curva de f(x)=4x+5; [2,-5] 
+% Description : Calcular el area bajo la curva de f(x)=4x+5; [2,5] 
 % Author      : Erika Amairani Leonardo Arce
 % Date        : 30 de Abril 2021
 % Version     : 1
