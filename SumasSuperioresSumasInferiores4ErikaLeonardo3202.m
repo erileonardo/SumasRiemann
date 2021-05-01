@@ -4,7 +4,7 @@
 % Author      : Erika Amairani Leonardo Arce
 % Date        : 30 de Abril 2021
 % Version     : 1
-% Notes       : Sumas inferiores
+% Notes       : Sumas superiores
 
 % limpiar variables
 clear
